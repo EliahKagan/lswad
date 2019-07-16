@@ -21,6 +21,7 @@ offset in the file, and length. This utility does not dump, view, or validate
 data stored *within* an entry; it's just a WAD directory lister.
 
 **lswad runs in LINQPad 5**, which can be obtained at https://www.linqpad.net.
+Open `lswad.linq` in LINQPad and click ▶ (or press F5) to run it.
 
 I'd like to acknowledge Joe Pantuso, whose excellent 1995 book *The Doom Game
 Editor* got my friends and me into making maps for Doom. I used chapter 2 of
