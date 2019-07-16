@@ -12,4 +12,4 @@
 # with this software. If not, see
 # <http://creativecommons.org/publicdomain/zero/1.0/>.
 
-/lswad.linq text diff=csharp
+/lswad.linq text diff=csharp linguist-language=csharp
