@@ -26,3 +26,9 @@ Open `lswad.linq` in LINQPad and click ▶ (or press F5) to run it.
 I'd like to acknowledge Joe Pantuso, whose excellent 1995 book *The Doom Game
 Editor* got my friends and me into making maps for Doom. I used chapter 2 of
 that book ("Master WAD and PWAD Structure") as a reference while writing lswad.
+
+NOTE: This project is ***not*** related to
+https://github.com/Doom-Utils/xwadtools by Udo Munk, which also contains a
+program called `lswad`, a command-line utility written in C. (I wasn't aware
+of xwadtools when I wrote the graphical C#/LINQPad app lswad.) Those tools are
+pretty cool, though—you should check them out!
