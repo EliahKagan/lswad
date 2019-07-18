@@ -1,4 +1,4 @@
-# lswad - *a WAD directory lister*
+# lswad - a WAD directory lister
 
 *Written in 2016 by Eliah Kagan \<degeneracypressure@gmail.com\>. Documentation
 added in 2019.*
